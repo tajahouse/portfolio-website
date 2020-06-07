@@ -697,14 +697,16 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
+			margin: 3.5rem 0;
+			width: 90%;
 			height: auto;
+			padding-left: 80px;
 		}
 
 			.image.main img {
 				width: 100%;
-				height: 60vh;
+				height: 70vh;
+				padding-right: 18%;
 			}
 
 		@media screen and (max-width: 736px) {
